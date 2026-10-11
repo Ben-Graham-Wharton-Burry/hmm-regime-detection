@@ -1,4 +1,4 @@
-﻿# Regime Detection in Danish Equities with a Hidden Markov Model
+# Regime Detection in Danish Equities with a Hidden Markov Model
 
 A Gaussian HMM fitted to the OMX Copenhagen General Index from 2013 to 2024, with a working implementation of the distinction that decides whether regime models are usable at all: **filtered against smoothed state probabilities**.
 
