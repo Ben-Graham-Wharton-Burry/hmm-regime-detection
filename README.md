@@ -85,4 +85,4 @@ Ang and Bekaert (2002), *International asset allocation with regime shifts*.
 
 ## Author
 
-Benjamin Kristensen, MSc Applied Economics and Finance, Copenhagen Business School.
+High_Magus_of_Risk.
