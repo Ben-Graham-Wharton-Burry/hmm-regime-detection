@@ -1,0 +1,22 @@
+{
+  "start": "2005-01-01",
+  "end": "2024-12-31",
+  "source": "Yahoo Finance via yfinance",
+  "adjustment": "auto_adjust=True (total return)",
+  "ticker_map": {
+    "^OMXCGI": "OMXCGI Index",
+    "NOVO-B.CO": "Novo Nordisk B",
+    "MAERSK-B.CO": "A.P. Moller-Maersk B",
+    "VWS.CO": "Vestas Wind Systems",
+    "DANSKE.CO": "Danske Bank"
+  },
+  "fetched_utc": "2026-10-11T17:18:17+00:00",
+  "rows": 5036,
+  "columns": [
+    "OMXCGI Index",
+    "Novo Nordisk B",
+    "A.P. Moller-Maersk B",
+    "Vestas Wind Systems",
+    "Danske Bank"
+  ]
+}
